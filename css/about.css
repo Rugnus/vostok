@@ -291,7 +291,7 @@ p {
    height: 55vh;
    width: 100%;
    background-image: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)),
-      url('../images/bg.jpg');
+      url('../images/bg1.jpg');
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -370,7 +370,7 @@ p {
 }
 
 .item-2 {
-   background: url('../images/about__us__page/first_pitch2.JPG') center center no-repeat;
+   background: url('../images/about__us__page/first_pitch2.1.JPG') center center no-repeat;
    /* background-position: center;
    background-repeat: no-repeat; */
    background-size: cover;
